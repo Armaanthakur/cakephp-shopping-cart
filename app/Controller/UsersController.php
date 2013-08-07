@@ -103,4 +103,10 @@ class UsersController extends AppController {
 
 ////////////////////////////////////////////////////////////
 
+
+function testing()
+{
+	echo 'hello testing github';
+}
+
 }
